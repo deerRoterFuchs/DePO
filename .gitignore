@@ -1,0 +1,7 @@
+/node_modules
+/src
+/dist
+.babelrc
+gulpfile.js
+packaje.json
+package-lock.json
